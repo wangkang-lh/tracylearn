@@ -1,4 +1,4 @@
-package threadpoolimpl.fixedthreadpoolImpl;
+package threadpool.threadpoolImpl;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

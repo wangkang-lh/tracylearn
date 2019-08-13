@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ibm.cn</groupId>
-    <artifactId>demoprovider</artifactId>
+    <artifactId>demoprovider2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demoprovider</name>
+    <name>demoprovider2</name>
     <description>Demo project for Provider</description>
 
     <properties>
