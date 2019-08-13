@@ -1,4 +1,4 @@
-package threadpoolimpl.fixedthreadpoolImpl.demo;
+package threadpool.threadpoolImpl.demo;
 
 import java.util.ArrayList;
 import java.util.Collections;

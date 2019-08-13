@@ -1,13 +1,13 @@
-package threadpoolimpl.fixedthreadpoolImpl;
+package threadpool.threadpoolImpl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FixedthreadpoolApplication {
+public class ThreadpoolApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FixedthreadpoolApplication.class, args);
+        SpringApplication.run(ThreadpoolApplication.class, args);
     }
 
 }
