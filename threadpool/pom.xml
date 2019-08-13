@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ThreadPoolImpl</groupId>
-    <artifactId>fixedthreadpool</artifactId>
+    <artifactId>threadpool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>fixedthreadpool</name>
+    <name>threadpool</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
