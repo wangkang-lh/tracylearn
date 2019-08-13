@@ -1,0 +1,51 @@
+server:
+  port: 6001
+spring:
+  application:
+    name: zuulDemo
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10001/eureka,http://localhost:10002/eureka
+#######################zuul 配置##################################################################
+zuul:
+  host:
+    # 代理普通http请求的超时时间
+    connect-timeout-millis: 1000
+    ###socket超时时间
+    socket-timeout-millis: 1000
+    ## http连接池大小
+    max-total-connections: 200
+    # 每个host最大连接数
+    max-per-route-connections: 20
+  ###前缀
+  #prefix: /tracy
+  ##允许被忽略的服务,这里可以实现登陆或者获取token 服务过滤
+  #ignored-services: userProvider
+  ribbon-isolation-strategy: semaphore
+  ##信号量模式下的最大并发
+  semaphore:
+    max-semaphores: 100
+
+  ####zuul路由##########################
+
+  routes:
+    user-provider:
+      #####拦截请求
+      path: /tracy/**
+      serviceId: feignDemo
+
+
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: true
+        isolation:
+          thread:
+            # 命令执行超时时间
+            timeoutInMilliseconds: 2000
+
+
+
