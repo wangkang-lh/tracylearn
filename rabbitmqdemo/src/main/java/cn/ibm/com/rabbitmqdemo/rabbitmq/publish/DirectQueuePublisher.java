@@ -1,7 +1,6 @@
 package cn.ibm.com.rabbitmqdemo.rabbitmq.publish;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
+import org.springframework.amqp.core.DirectExchange;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,28 +12,33 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 
-/*@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class},
+import java.util.concurrent.atomic.AtomicInteger;
+
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class},
         scanBasePackages = "cn.ibm.com.rabbitmqdemo.rabbitmq.publish")
 @EnableScheduling
-@Profile("publish")*/
-public class WorkQueuePublisher {
+@Profile("publish")
+public class DirectQueuePublisher {
     @Autowired
     private RabbitTemplate template;
 
     @Autowired
-    private Queue queue;
+    private DirectExchange direct;
 
-    AtomicInteger count = new AtomicInteger();
+    AtomicInteger count = new AtomicInteger(0);
+
+    String[] routingKeys = {"orange", "green"};
 
     @Scheduled(fixedDelay = 1000)
     public void send() {
-        String message = "Hello Tracy!" + count.incrementAndGet();
-        this.template.convertAndSend(queue.getName(), message);
+        int i = count.incrementAndGet();
+        String message = "routing message-" + i + " routingKey=" + routingKeys[i % 2];
+        template.convertAndSend(direct.getName(), routingKeys[i % 2], message);
         System.out.println(" [x] Sent '" + message + "'");
     }
 
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(WorkQueuePublisher.class, args);
+        SpringApplication.run(DirectQueuePublisher.class, args);
         System.in.read();
     }
 }

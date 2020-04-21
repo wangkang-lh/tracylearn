@@ -16,7 +16,7 @@ public class Mqconfig {
         SimpleRabbitListenerContainerFactory factory = new SimpleRabbitListenerContainerFactory();
         configurer.configure(factory, connectionFactory);
         // factory.setMessageConverter(myMessageConverter());
-        factory.setPrefetchCount(1);
+        factory.setPrefetchCount(2);
         return factory;
     }
 
