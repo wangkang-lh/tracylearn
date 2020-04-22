@@ -26,7 +26,7 @@ public class WorkQueuePublisher {
 
     AtomicInteger count = new AtomicInteger();
 
-    @Scheduled(fixedDelay = 1000)
+    @Scheduled(fixedDelay = 500)
     public void send() {
         String message = "Hello Tracy!" + count.incrementAndGet();
         this.template.convertAndSend(queue.getName(), message);

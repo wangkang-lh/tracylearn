@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: consumer2
+    active: consumer1
 ---
 spring:
   profiles: publish

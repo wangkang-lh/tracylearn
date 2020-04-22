@@ -13,10 +13,10 @@ import org.springframework.context.annotation.Profile;
 @Profile("consumer2")
 public class DirectQueueConsumer2 {
 
-    @RabbitListener(queues = "#{queue2.name}")
+    @RabbitListener(queues = "queue2")
     public void receive(Channel channel, String in) {
         System.out.println("this is consumer2");
-        System.out.println("Channel-" + channel.getChannelNumber() + " Received '" + in + "'");
+        System.out.println("Channel-" + channel.getChannelNumber() + " Received '" + in + "'" + System.nanoTime());
     }
 
     public static void main(String[] args) throws Exception {

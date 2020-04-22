@@ -6,7 +6,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
-
 @Configuration
 public class DirectConfig {
     @Bean
@@ -16,12 +15,12 @@ public class DirectConfig {
 
     @Bean
     public Queue queue1() {
-        return new AnonymousQueue();
+        return new Queue("queue1");
     }
 
     @Bean
     public Queue queue2() {
-        return new AnonymousQueue();
+        return new Queue("queue2");
     }
 
     @Bean

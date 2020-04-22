@@ -1,12 +1,9 @@
 package cn.ibm.com.rabbitmqdemo.rabbitmq.consumer2;
 
 import org.springframework.amqp.core.*;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
-import javax.annotation.PostConstruct;
 
 
 @Configuration
@@ -18,12 +15,12 @@ public class DirectConfig {
 
     @Bean
     public Queue queue1() {
-        return new AnonymousQueue();
+        return new Queue("queue1");
     }
 
     @Bean
     public Queue queue2() {
-        return new AnonymousQueue();
+        return new Queue("queue2");
     }
 
     @Bean
