@@ -9,8 +9,10 @@
         <option value="$PROJECT_DIR$/commonstarter/pom.xml" />
         <option value="$PROJECT_DIR$/demotest/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/observerdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmqdemo/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

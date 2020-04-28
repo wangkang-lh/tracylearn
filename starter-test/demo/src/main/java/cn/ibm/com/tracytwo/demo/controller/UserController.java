@@ -1,7 +1,7 @@
-package cn.ibm.com.tracyone.demo.controller;
+package cn.ibm.com.tracytwo.demo.controller;
 
 import cn.ibm.com.tracyone.commonstarter.Commonservice;
-import cn.ibm.com.tracyone.demo.model.User;
+import cn.ibm.com.tracytwo.demo.model.User;
 import com.alibaba.fastjson.JSON;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package cn.ibm.com.tracyone.demo.model;
+package cn.ibm.com.tracytwo.demo.model;
 
 public class User {
     private String name;
