@@ -117,7 +117,6 @@ public class FixedThreadPoolTest {
                     thread.getState().equals(Thread.State.BLOCKED)) {
                 thread.interrupt();
             }
-
         }
     }
 }
