@@ -1,11 +1,11 @@
 package cn.ibm.com.demo.netty;
 
 /**
- * handler上下文，我主要负责维护链，和链的执行
+ * 处理链路的上下文节点，在此节点上持有下一个节点以及当前节点的进行处理的handler
  */
 public class HandlerChainContext {
-    HandlerChainContext next; // 下一个handler节点
-    AbstractHandler handler;
+    HandlerChainContext next; // 下一个链路节点
+    AbstractHandler handler; //当前处理handler
 
     public HandlerChainContext(AbstractHandler handler) {
         this.handler = handler;
