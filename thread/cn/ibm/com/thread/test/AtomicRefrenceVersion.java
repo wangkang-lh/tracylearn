@@ -1,6 +1,5 @@
-package cn.ibm.com.rabbitmqdemo.thread;
+package cn.ibm.com.thread.test;
 
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.concurrent.atomic.AtomicStampedReference;
 import java.util.concurrent.locks.LockSupport;
 

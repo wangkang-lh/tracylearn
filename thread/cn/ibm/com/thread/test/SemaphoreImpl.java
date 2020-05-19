@@ -1,4 +1,4 @@
-package cn.ibm.com.rabbitmqdemo.thread;
+package cn.ibm.com.thread.test;
 
 import java.io.IOException;
 import java.util.ArrayList;

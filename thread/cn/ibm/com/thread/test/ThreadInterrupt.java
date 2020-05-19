@@ -1,4 +1,4 @@
-package cn.ibm.com.rabbitmqdemo.thread;
+package cn.ibm.com.thread.test;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,9 +1,8 @@
-package cn.ibm.com.rabbitmqdemo.thread;
+package cn.ibm.com.thread.test;
 
 import sun.misc.Unsafe;
 
 import java.lang.reflect.Field;
-import java.util.concurrent.atomic.AtomicStampedReference;
 import java.util.concurrent.atomic.LongAccumulator;
 import java.util.concurrent.atomic.LongAdder;
 import java.util.function.LongBinaryOperator;
