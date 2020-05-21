@@ -13,49 +13,49 @@ import java.io.InputStream;
 
 // 写一个默认的hystrix降级策略
 @Component
-public  class FallbackOfUserProvider implements FallbackProvider {
-	@Override
-	public String getRoute() {
-		// null 或者 *  代表为默认的fallback
-		return null;
-	}
+public class FallbackOfUserProvider implements FallbackProvider {
+    @Override
+    public String getRoute() {
+        // null 或者 *  代表为默认的fallback
+        return null;
+    }
 
-	@Override
-	public ClientHttpResponse fallbackResponse(String route, Throwable cause) {
-		return new ClientHttpResponse() {
+    @Override
+    public ClientHttpResponse fallbackResponse(String route, Throwable cause) {
+        return new ClientHttpResponse() {
 
-			@Override
-			public HttpHeaders getHeaders() {
-				HttpHeaders headers = new HttpHeaders();
-				return headers;
-			}
+            @Override
+            public HttpHeaders getHeaders() {
+                HttpHeaders headers = new HttpHeaders();
+                return headers;
+            }
 
-			@Override
-			public InputStream getBody() throws IOException {
-				return new ByteArrayInputStream("hystrix opened ".getBytes());
-			}
+            @Override
+            public InputStream getBody() throws IOException {
+                return new ByteArrayInputStream("hystrix opened ".getBytes());
+            }
 
-			@Override
-			public String getStatusText() throws IOException {
-				return "your service occurred errors";
-			}
+            @Override
+            public String getStatusText() throws IOException {
+                return "your service occurred errors";
+            }
 
-			@Override
-			public HttpStatus getStatusCode() throws IOException {
-				return HttpStatus.BAD_GATEWAY;
-			}
+            @Override
+            public HttpStatus getStatusCode() throws IOException {
+                return HttpStatus.BAD_GATEWAY;
+            }
 
-			@Override
-			public int getRawStatusCode() throws IOException {
-				return 502;
-			}
+            @Override
+            public int getRawStatusCode() throws IOException {
+                return 502;
+            }
 
-			@Override
-			public void close() {
+            @Override
+            public void close() {
 
-			}
-		};
-	}
+            }
+        };
+    }
 
 
 }
