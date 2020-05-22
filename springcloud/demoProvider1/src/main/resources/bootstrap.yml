@@ -1,0 +1,37 @@
+server:
+  port: 8081
+eureka:
+  client:
+    serviceUrl:
+      register-with-eureka: true
+      fetch-registry: true
+      defaultZone: http://localhost:10001/eureka
+  instance:
+    preferIpAddress: true
+spring:
+  application:
+    name: userprovide1
+  profiles:
+    active: dev
+  cloud:
+    config:
+      name: userprovide1
+      profile: dev
+      label: master  #指定仓库分支
+      discovery:
+        enabled: true  # 开启
+        service-id: configserver # 指定配置中心服务端的server-id
+  rabbitmq:
+    host: 192.168.186.149
+    password: admin
+    username: admin
+    port: 5672
+management:
+  endpoint:
+    shutdown:
+      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

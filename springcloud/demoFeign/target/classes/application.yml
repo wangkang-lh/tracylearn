@@ -1,0 +1,20 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: feignDemo
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10001/eureka,http://localhost:10002/eureka
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 2000
