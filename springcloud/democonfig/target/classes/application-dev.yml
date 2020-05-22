@@ -6,13 +6,26 @@ spring:
   cloud:
     config:
       server:
+#        git:
+#          uri: https://github.com/szwkang/cloudconfig #配置文件所在仓库
+#          search-paths: /config
+#          default-label: master
         git:
-          uri: https://github.com/szwkang/cloudconfig #配置文件所在仓库
-          search-paths: /config
-          default-label: master
+          uri: https://github.com/szwkang/cloudconfig.git
+          force-pull: true
+  rabbitmq:
+    host: 192.168.186.149
+    password: admin
+    username: admin
+    port: 5672
 eureka:
   client:
     register-with-eureka: true
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:10001/eureka
+management: # 暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: "bus-refresh"
