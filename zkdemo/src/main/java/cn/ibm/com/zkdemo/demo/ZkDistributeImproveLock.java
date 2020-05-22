@@ -12,6 +12,9 @@ import org.I0Itec.zkclient.ZkClient;
 import org.I0Itec.zkclient.exception.ZkNodeExistsException;
 import org.apache.commons.lang3.StringUtils;
 
+/**
+ * @author Tracy
+ */
 public class ZkDistributeImproveLock implements Lock {
 
 	/*
@@ -28,6 +31,7 @@ public class ZkDistributeImproveLock implements Lock {
 	private ThreadLocal<String> beforePath = new ThreadLocal<String>();
 	// 锁重入计数器
 	private ThreadLocal<Integer> reenterCount = ThreadLocal.withInitial(()->0);
+
 
 	public ZkDistributeImproveLock(String lockPath) {
 		if(StringUtils.isNotBlank(lockPath)){
