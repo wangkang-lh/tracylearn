@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d9438d0-d88f-4edf-a79a-723aaee36006" name="Default Changelist" comment="modify config">
+      <change beforePath="$PROJECT_DIR$/demo1config/democonfig.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1config/src/main/java/cn/ibm/com/democonfig/DemoConfigApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1config/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1config/src/test/java/cn/ibm/com/democonfig/DemoConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1eureka/demo1eureka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1eureka/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1eureka/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2eureka/demo2eureka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoFeign/demofeign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider1/demoprovider1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider1/src/main/java/com/ibm/cn/demoprovider/DemoProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/demoprovider2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/src/main/java/com/ibm/cn/demoprovider/DemoproviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider2/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider2/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/target/classes/com/ibm/cn/demoprovider/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider2/target/classes/com/ibm/cn/demoprovider/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoProvider2/target/classes/com/ibm/cn/demoprovider/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider2/target/classes/com/ibm/cn/demoprovider/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoZuul/demozuul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/democonfig.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/src/main/java/cn/ibm/com/democonfig/DemoConfigApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/src/test/java/cn/ibm/com/democonfig/DemoConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/target/classes/cn/ibm/com/democonfig/DemoConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/democonfig/target/test-classes/cn/ibm/com/democonfig/DemoConfigApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1c7fSkoZ6CjCANWEfrH1sOh0Iiu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.ibm.com.democonfig.configuration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\githubcode\code\tracylearn\springcloud" />
+      <recent name="C:\githubcode\code\tracylearn\springcloud\demoProvider1\src\main\resources" />
+      <recent name="C:\githubcode\code\tracylearn\springcloud\democonfig\src\main\resources" />
+      <recent name="C:\githubcode\code\tracylearn\springcloud\demo1eureka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8081/user/getUser" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoConfig1Application">
+    <configuration name="DemoProvider1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibm.cn.demoprovider.DemoProvider1Application" />
+      <module name="demoprovider1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibm.cn.demoprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProviderApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/DemoProviderApplication.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="All in demoprovider1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demoprovider1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.eureka.Demo1EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2eurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo2eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demo2eureka.Demo2eurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoConfig1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo1config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ibm.com.democonfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ibm.com.democonfig.DemoConfig1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demofeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demofeign.DemoFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProvider1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoprovider1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demoprovider.DemoProvider1Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProvider2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoprovider2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demoprovider.DemoProvider2Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemozuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demozuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demozuul.DemozuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoProvider1Application" />
+      <item itemvalue="HTTP Request.DemoProviderApplication#1" />
+      <item itemvalue="JUnit.All in demoprovider1" />
+      <item itemvalue="Spring Boot.Demo2eurekaApplication" />
+      <item itemvalue="Spring Boot.DemoFeignApplication" />
+      <item itemvalue="Spring Boot.DemoProvider1Application" />
+      <item itemvalue="Spring Boot.DemozuulApplication" />
+      <item itemvalue="Spring Boot.Demo1EurekaApplication" />
+      <item itemvalue="Spring Boot.DemoProvider2Application" />
+      <item itemvalue="Spring Boot.DemoConfig1Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoConfig1Application" />
+        <item itemvalue="JUnit.All in demoprovider1" />
+        <item itemvalue="HTTP Request.DemoProviderApplication#1" />
+        <item itemvalue="Application.DemoProvider1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9438d0-d88f-4edf-a79a-723aaee36006" name="Default Changelist" comment="" />
+      <created>1589884553392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589884553392</updated>
+      <workItem from="1589884555392" duration="13231000" />
+      <workItem from="1590029112046" duration="7628000" />
+      <workItem from="1590047718488" duration="12638000" />
+      <workItem from="1590118350818" duration="1081000" />
+      <workItem from="1590128419121" duration="147000" />
+      <workItem from="1590128891333" duration="9023000" />
+      <workItem from="1590304489541" duration="1532000" />
+    </task>
+    <task id="LOCAL-00001" summary="modify config">
+      <created>1589884702549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589884702549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify config" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590332309147">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590332309147" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1590053616625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590053616625" />
+    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590332264248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1590332264248" />
+    <state x="396" y="42" key="#xdebugger.evaluate" timestamp="1589972604268">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="42" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1589972604268" />
+    <state width="632" height="466" key="DebuggerActiveHint" timestamp="1589972577822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1589972577822" />
+    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1590137505897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590137505897" />
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.0.center" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.0.left" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.0.right" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.1.center" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.1.left" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="236" key="GridCell.Tab.1.right" timestamp="1590332334039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590332334039" />
+    <state width="1237" height="281" key="GridCell.Tab.2.bottom" timestamp="1589973751394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="281" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589973751394" />
+    <state width="1237" height="281" key="GridCell.Tab.2.center" timestamp="1589973751394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="281" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1589973751394" />
+    <state width="1237" height="281" key="GridCell.Tab.2.left" timestamp="1589973751394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="281" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1589973751394" />
+    <state width="1237" height="281" key="GridCell.Tab.2.right" timestamp="1589973751394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="281" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1589973751394" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1590137945741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590137945741" />
+    <state x="362" y="82" width="576" height="524" key="StructurePopup" timestamp="1589973282909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="576" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1589973282909" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1590057820740">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590057820740" />
+    <state x="221" y="0" key="editAsTableFormatDialogDimension" timestamp="1590058136795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="editAsTableFormatDialogDimension/0.0.1280.680@0.0.1280.680" timestamp="1590058136795" />
+    <state x="417" y="0" width="605" height="680" key="find.popup" timestamp="1590304543430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="0" width="605" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1590304543430" />
+    <state x="349" y="127" key="git4idea.merge.GitPullDialog" timestamp="1590055688664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="127" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1590055688664" />
+    <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1589964670720">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1280.680@0.0.1280.680" timestamp="1589964670720" />
+    <state x="56" y="0" key="new project wizard" timestamp="1589968351411">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589968351411" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1590057786149">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1590057786149" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1590137907779">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1590137907779" />
+    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1590304567054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590304567054" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.2.RELEASE/spring-cloud-netflix-eureka-client-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/http/RestTemplateEurekaHttpClient.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar!/com/netflix/discovery/shared/transport/EurekaHttpClient.java</url>
+          <line>14</line>
+          <properties class="com.netflix.discovery.shared.transport.EurekaHttpClient" method="register">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demoprovider2$All_in_demoprovider1.ic" NAME="All in demoprovider1 Coverage Results" MODIFIED="1590137880459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoprovider2$DemoProviderApplication.ic" NAME="DemoProviderApplication Coverage Results" MODIFIED="1590134761244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

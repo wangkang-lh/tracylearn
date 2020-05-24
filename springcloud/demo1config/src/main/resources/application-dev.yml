@@ -1,5 +1,5 @@
 server:
-  port: 7002
+  port: 7001
 spring:
   application:
     name: configserver
@@ -23,7 +23,7 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://localhost:10001/eureka
+      defaultZone: http://localhost:10001/eureka,http://localhost:10002/eureka
 management: # 暴露触发消息总线的地址
   endpoints:
     web:

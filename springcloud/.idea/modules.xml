@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo1config/demo1config.iml" filepath="$PROJECT_DIR$/demo1config/demo1config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1eureka/demo1eureka.iml" filepath="$PROJECT_DIR$/demo1eureka/demo1eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2config/demo2config.iml" filepath="$PROJECT_DIR$/demo2config/demo2config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2eureka/demo2eureka.iml" filepath="$PROJECT_DIR$/demo2eureka/demo2eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoFeign/demofeign.iml" filepath="$PROJECT_DIR$/demoFeign/demofeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoProvider1/demoprovider1.iml" filepath="$PROJECT_DIR$/demoProvider1/demoprovider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoProvider2/demoprovider2.iml" filepath="$PROJECT_DIR$/demoProvider2/demoprovider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoZuul/demozuul.iml" filepath="$PROJECT_DIR$/demoZuul/demozuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>

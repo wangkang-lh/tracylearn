@@ -1,0 +1,33 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.ibm.cn.demoprovider.model.User",
+      "sourceType": "com.ibm.cn.demoprovider.model.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ibm.cn.demoprovider.model.User",
+      "defaultValue": 0
+    },
+    {
+      "name": "user.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ibm.cn.demoprovider.model.User"
+    },
+    {
+      "name": "user.phone",
+      "type": "java.lang.String",
+      "sourceType": "com.ibm.cn.demoprovider.model.User"
+    },
+    {
+      "name": "user.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.ibm.cn.demoprovider.model.User"
+    }
+  ],
+  "hints": []
+}
