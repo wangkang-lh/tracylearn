@@ -1,17 +1,14 @@
 spring:
   application:
-    name: eurekapeer1
+    name: eurekaDemo
 
 server:
   port: 10001
 
 eureka:
-  instance:
-    hostname: devEurekaServer
-    instance-id: devEurekaServer
   client:
-    fetch-registry: false
-    register-with-eureka: false
+    fetch-registry: true
+    register-with-eureka: true
     service-url:
       defaultZone: http://localhost:10001/eureka,http://localhost:10002/eureka
   server:

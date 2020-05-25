@@ -27,9 +27,6 @@ spring:
     username: admin
     port: 5672
 management:
-  endpoint:
-    shutdown:
-      enabled: false
   endpoints:
     web:
       exposure:
