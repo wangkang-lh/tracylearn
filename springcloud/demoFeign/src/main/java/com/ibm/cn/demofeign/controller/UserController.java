@@ -11,8 +11,8 @@ public class UserController {
     @Autowired
     private UserFeignService userFeignService;
 
-    @GetMapping(value = "/user/getUserByName")
-    public User getUserByName(@RequestParam(value = "name") String name) {
-        return userFeignService.getUserByName(name);
+    @GetMapping(value = "/user/getUser")
+    public User getUser() {
+        return userFeignService.getUser();
     }
 }

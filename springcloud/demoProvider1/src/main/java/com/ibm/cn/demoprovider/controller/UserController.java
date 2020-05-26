@@ -20,7 +20,7 @@ public class UserController {
 
     @GetMapping(value = "/getUser")
     public User getUser() {
-        User demo =new User();
+        User demo = new User();
         demo.setName(name);
         demo.setAge(user.getAge());
         demo.setPhone(user.getPhone());
