@@ -20,69 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9438d0-d88f-4edf-a79a-723aaee36006" name="Default Changelist" comment="modify config">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_2_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_2_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_2_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_2_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_2_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_8_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/democonfig (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/democonfig.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/target/classes/META-INF/demo1config.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/target/test-classes/META-INF/demo1config.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1eureka/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1eureka/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1eureka/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1eureka/target/classes/application-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1eureka/target/classes/application-test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2config/target/classes/cn/ibm/com/democonfig/DemoConfigApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/demofeign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/demofeign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/service/FallBackOfUserFeign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/service/FeginHeaderDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/service/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/service/UserFeignService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoFeign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/service/FallBackOfUserFeign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/service/FeginHeaderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/service/UserFeignService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/service/UserFeignService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoProvider1/src/main/java/com/ibm/cn/demoprovider/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider1/src/main/java/com/ibm/cn/demoprovider/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoProvider1/src/main/java/com/ibm/cn/demoprovider/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider1/src/main/java/com/ibm/cn/demoprovider/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoProvider1/target/classes/com/ibm/cn/demoprovider/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoProvider1/target/classes/com/ibm/cn/demoprovider/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoProvider2/target/classes/META-INF/demoprovider2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoProvider2/target/classes/com/ibm/cn/demoprovider/DemoproviderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemozuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemozuulApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/FallbackOfUserProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemoZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemoZuulApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/DemozuulApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/DemozuulApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/FallbackOfUserProvider$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/FallbackOfUserProvider.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demoZuul/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,7 +99,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemozuulApplication">
+  <component name="RunManager" selected="Application.DemoProvider1Application">
+    <configuration name="DemoConfig1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ibm.com.democonfig.DemoConfig1Application" />
+      <module name="demo1config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ibm.com.democonfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoConfig2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ibm.com.democonfig.DemoConfig2Application" />
+      <module name="demo2config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ibm.com.democonfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibm.cn.demofeign.DemoFeignApplication" />
+      <module name="demofeign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibm.cn.demofeign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoProvider1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ibm.cn.demoprovider.DemoProvider1Application" />
       <module name="demoprovider1" />
@@ -168,13 +152,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoProviderApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/DemoProviderApplication.http" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="All in demoprovider1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demoprovider1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+    <configuration name="DemoZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibm.cn.demozuul.DemoZuulApplication" />
+      <module name="demozuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibm.cn.demozuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,32 +176,6 @@
     <configuration name="Demo2eurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo2eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibm.cn.demo2eureka.Demo2eurekaApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoConfig1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo1config" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.ibm.com.democonfig.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ibm.com.democonfig.DemoConfig1Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoConfig2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo2config" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.ibm.com.democonfig.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ibm.com.democonfig.DemoConfig2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -251,25 +211,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DemoConfig1Application" />
+      <item itemvalue="Application.DemoConfig2Application" />
+      <item itemvalue="Application.DemoFeignApplication" />
       <item itemvalue="Application.DemoProvider1Application" />
-      <item itemvalue="HTTP Request.DemoProviderApplication#1" />
-      <item itemvalue="JUnit.All in demoprovider1" />
-      <item itemvalue="Spring Boot.Demo2eurekaApplication" />
-      <item itemvalue="Spring Boot.DemoFeignApplication" />
-      <item itemvalue="Spring Boot.DemoProvider1Application" />
-      <item itemvalue="Spring Boot.DemozuulApplication" />
-      <item itemvalue="Spring Boot.Demo1EurekaApplication" />
-      <item itemvalue="Spring Boot.DemoProvider2Application" />
-      <item itemvalue="Spring Boot.DemoConfig1Application" />
-      <item itemvalue="Spring Boot.DemoConfig2Application" />
+      <item itemvalue="Application.DemoZuulApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DemoConfig1Application" />
-        <item itemvalue="Spring Boot.DemoConfig2Application" />
-        <item itemvalue="JUnit.All in demoprovider1" />
-        <item itemvalue="HTTP Request.DemoProviderApplication#1" />
         <item itemvalue="Application.DemoProvider1Application" />
+        <item itemvalue="Application.DemoZuulApplication" />
+        <item itemvalue="Application.DemoFeignApplication" />
+        <item itemvalue="Application.DemoConfig2Application" />
+        <item itemvalue="Application.DemoConfig1Application" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +249,7 @@
       <workItem from="1590304489541" duration="2165000" />
       <workItem from="1590373451388" duration="9954000" />
       <workItem from="1590415458856" duration="2583000" />
-      <workItem from="1590459989409" duration="11170000" />
+      <workItem from="1590459989409" duration="12549000" />
     </task>
     <task id="LOCAL-00001" summary="modify config">
       <created>1589884702549</created>
@@ -343,10 +297,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1590416018696" />
-    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590332264248">
+    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590546098437">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1590332264248" />
+    <state x="383" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1590546098437" />
     <state x="396" y="42" key="#xdebugger.evaluate" timestamp="1589972604268">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -359,38 +313,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590473956099" />
-    <state width="1237" height="233" key="GridCell.Tab.0.bottom" timestamp="1590487843995">
+    <state width="1237" height="352" key="GridCell.Tab.0.bottom" timestamp="1590576458663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590487843995" />
-    <state width="1237" height="233" key="GridCell.Tab.0.center" timestamp="1590487843994">
+    <state width="1237" height="352" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590576458663" />
+    <state width="1237" height="352" key="GridCell.Tab.0.center" timestamp="1590576458663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590487843994" />
-    <state width="1237" height="233" key="GridCell.Tab.0.left" timestamp="1590487843994">
+    <state width="1237" height="352" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590576458663" />
+    <state width="1237" height="352" key="GridCell.Tab.0.left" timestamp="1590576458663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590487843994" />
-    <state width="1237" height="233" key="GridCell.Tab.0.right" timestamp="1590487843994">
+    <state width="1237" height="352" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590576458663" />
+    <state width="1237" height="352" key="GridCell.Tab.0.right" timestamp="1590576458663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590487843994" />
-    <state width="1237" height="233" key="GridCell.Tab.1.bottom" timestamp="1590487843995">
+    <state width="1237" height="352" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590576458663" />
+    <state width="1237" height="355" key="GridCell.Tab.1.bottom" timestamp="1590576458656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590487843995" />
-    <state width="1237" height="233" key="GridCell.Tab.1.center" timestamp="1590487843995">
+    <state width="1237" height="355" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590576458656" />
+    <state width="1237" height="355" key="GridCell.Tab.1.center" timestamp="1590576458656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590487843995" />
-    <state width="1237" height="233" key="GridCell.Tab.1.left" timestamp="1590487843995">
+    <state width="1237" height="355" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590576458656" />
+    <state width="1237" height="355" key="GridCell.Tab.1.left" timestamp="1590576458656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590487843995" />
-    <state width="1237" height="233" key="GridCell.Tab.1.right" timestamp="1590487843995">
+    <state width="1237" height="355" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590576458656" />
+    <state width="1237" height="355" key="GridCell.Tab.1.right" timestamp="1590576458656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="233" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590487843995" />
+    <state width="1237" height="355" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590576458656" />
     <state width="1237" height="281" key="GridCell.Tab.2.bottom" timestamp="1590463187954">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -407,10 +361,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="281" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1590463187954" />
-    <state x="391" y="42" key="RollbackChangesDialog" timestamp="1590486952043">
+    <state x="391" y="42" key="RollbackChangesDialog" timestamp="1590548892167">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="391" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590486952043" />
+    <state x="391" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590548892167" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1590137945741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -483,7 +437,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/demoprovider2$All_in_demoprovider1.ic" NAME="All in demoprovider1 Coverage Results" MODIFIED="1590137880459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/demoprovider2$DemoProviderApplication.ic" NAME="DemoProviderApplication Coverage Results" MODIFIED="1590134761244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoprovider2$All_in_demoprovider1.ic" NAME="All in demoprovider1 Coverage Results" MODIFIED="1590137880459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

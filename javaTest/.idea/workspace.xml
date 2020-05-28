@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aa37b1f-bc0f-4ea6-8f3e-6c04d5b4164e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TestAAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/Handler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/Handler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/Handler3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/Handler4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/HandlerChainContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nettyTest/src/main/java/cn/ibm/com/demo/netty/SimulateNettyPipelineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmqTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/src/main/java/com/ibm/cn/demo2eureka/Demo2eurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2eureka/src/test/java/com/ibm/cn/demo2eureka/Demo2eurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/src/main/java/com/ibm/cn/eureka/EurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/src/test/java/com/ibm/cn/demo3eureka/Demo3eurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/src/test/java/com/ibm/cn/demoprovider/DemoproviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoEurekaServer/src/test/java/com/ibm/cn/eureka/EurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/DemoFeignApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/service/FallBackOfUserFeign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/service/FeginHeaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/java/com/ibm/cn/demofeign/service/UserFeignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoFeign/src/test/java/com/ibm/cn/demofeign/DemoFeignApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/src/main/java/com/ibm/cn/demoprovider/DemoproviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/src/main/java/com/ibm/cn/demoprovider/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/src/main/java/com/ibm/cn/demoprovider/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider/src/test/java/com/ibm/cn/demoprovider/DemoproviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/src/main/java/com/ibm/cn/demoprovider/DemoproviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/src/main/java/com/ibm/cn/demoprovider/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/src/main/java/com/ibm/cn/demoprovider/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoProvider2/src/test/java/com/ibm/cn/demoprovider/DemoproviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/src/lib/spring-cloud-starter-netflix-zuul-2.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/src/main/java/com/ibm/cn/demozuul/DemozuulApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/src/main/java/com/ibm/cn/demozuul/FallbackOfUserProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoZuul/src/test/java/com/ibm/cn/demozuul/DemozuulApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/src/main/java/threadpoolimpl/fixedthreadpoolImpl/FixedthreadpoolApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/src/main/java/threadpoolimpl/fixedthreadpoolImpl/demo/FixedThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fixedthreadpool/src/test/java/threadpoolimpl/fixedthreadpoolImpl/FixedthreadpoolApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/META-INF/javaTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/DNA序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Good.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/MP3光标位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Redraiment的走法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/SudokuJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/iNOC产品部完全数计算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/两数相加.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/二十四点运算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/二维数组操作.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/人民币转换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/从10个数中随机抽取3个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/从n个数中取k个数然后求不重复的所有排列组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/从单向链表中删除指定值的节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/公共字符串计算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/分别统计出包含英文字母空格数字和其它字符的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/删除字符串中出现次数最少的字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/判断两个IP是否属于同一子网.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/单词倒排.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/参数解析.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/取近似值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/句子逆序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/合唱队.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/合并表记录.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/合法IP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/名字的漂亮度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/四则运算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/图片整理.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/在字符串中找出连续最长的数字串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/坐标移动.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/多线程.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字串的连接最长路径查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符个数统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串分割2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串分隔.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串加密.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串加解密.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串匹配.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串反转.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串合并处理.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串最后一个单词的长度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串运用密码截取.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符串通配符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/字符逆序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/学英语.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/密码强度等级.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/密码验证合格程序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/将真分数分解为埃及分数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/尼科彻斯定理.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/成绩排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/扑克牌大小.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/找出字符串中第一个只出现一次的字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/按字节截取字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/挑7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/提取不重复的整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/放苹果.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/数字颠倒.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/数据分类处理.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/整形数组合并.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/整形数组合并1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/整数与IP地址间的转换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/无线OSS高精度整数加法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/明明的随机数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/有效括号的嵌套深度$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/有效括号的嵌套深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/杨辉三角的变形.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/查找两个字符串ab中的最长公共子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/查找兄弟单词.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/查找组成一个偶数最接近的两个素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/查找输入整数二进制中1的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求int型正整数在内存中存储时1的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求小球落地5次后所经历的路程和第5次反弹的高度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求最大连续bit数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求最大连续bit数1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求最小公倍数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/求解立方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/汽水瓶.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/游戏算法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/火车进站.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/百钱买百鸡问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/矩阵乘法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/矩阵乘法计算量估算.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/称砝码.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/等差数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/简单密码.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/简单的计算器.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/简单错误记录.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/素数伴侣.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/线性插值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/给定n个数然后求这n个数的全排列组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/统计大写字母个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/统计每个月兔子的总数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/自动售货系统.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/自守数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/蛇形矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/表示数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/表达式求值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/计算字符个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/计算字符串的相似度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/计算字符串的距离.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/计算日期到天数转换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/记票统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/记票统计1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/记负均正.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/记负均正II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/识别有效的IP地址和掩码并进行分类统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/质数因子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/购物单.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/超长正整数相加.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/输入n个整数输出其中最小的k个.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/输入整型数组和排序标识对其元素按照升序或降序进行排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/输出单向链表中倒数第k个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/进制转换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/迷宫问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmqTest/src/main/java/cn/ibm/com/demo/rabbitmq/publish/ConfirmQueuePublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmqTest/src/main/java/cn/ibm/com/demo/rabbitmq/publish/ConfirmQueuePublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmqTest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmqTest/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmqTest1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmqTest1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmqTest1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmqTest1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redistest/src/main/java/cn/ibm/com/redistest/config/RedisAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redistest/src/main/java/cn/ibm/com/redistest/config/RedisAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/commonstarter/src/main/java/cn/ibm/com/tracyone/commonstarter/Commonservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/src/main/java/cn/ibm/com/tracytwo/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/src/main/java/cn/ibm/com/tracytwo/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/src/main/java/cn/ibm/com/tracytwo/demo/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demo/src/test/java/cn/ibm/com/tracytwo/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/src/main/java/cn/ibm/com/tracythree/demotest/ServiceAutoConfigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/src/main/java/cn/ibm/com/tracythree/demotest/ServiceProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter-test/demotest/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZWKP8aEBtDzG1Bposdg4XaaC1v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\learncode\06-zookeeper\06-zookeeper-source\javaTest\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestAAA">
+    <configuration name="简单的计算器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.简单的计算器" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="从10个数中随机抽取3个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.从10个数中随机抽取3个数" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAAA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAAA" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.字符统计" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="从n个数中取k个数然后求不重复的所有排列组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.从n个数中取k个数然后求不重复的所有排列组合" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAAA" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.简单的计算器" />
+        <item itemvalue="Application.从n个数中取k个数然后求不重复的所有排列组合" />
+        <item itemvalue="Application.从10个数中随机抽取3个数" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa37b1f-bc0f-4ea6-8f3e-6c04d5b4164e" name="Default Changelist" comment="" />
+      <created>1584949382417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584949382417</updated>
+      <workItem from="1584949385402" duration="14202000" />
+      <workItem from="1585215532017" duration="2803000" />
+      <workItem from="1585281662015" duration="6110000" />
+      <workItem from="1585293507111" duration="62402000" />
+      <workItem from="1585895051472" duration="6435000" />
+      <workItem from="1586259000898" duration="140000" />
+      <workItem from="1589853398208" duration="104000" />
+      <workItem from="1590473959640" duration="4115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="34" key="#xdebugger.evaluate" timestamp="1590476916745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="760" y="34" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1590476916745" />
+    <state width="404" height="454" key="DebuggerActiveHint" timestamp="1590477115595">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="404" height="454" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1590477115595" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1590475499402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1590475499402" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1590478564533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590478564533" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1590478564534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590478564534" />
+    <state x="337" y="179" width="672" height="678" key="search.everywhere.popup" timestamp="1590477474820">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="179" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590477474820" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/字符串匹配.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/字符串匹配.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/求最大连续bit数1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/合法IP.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/记票统计.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/记票统计.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/字符统计.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/记负均正II.java</url>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/简单的计算器.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main.java</url>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestAAA.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

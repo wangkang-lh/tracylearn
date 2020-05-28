@@ -7,7 +7,7 @@ spring:
     config:
       server:
 #        git:
-#          uri: https://github.com/szwkang/cloudconfig #配置文件所在仓库
+#          uri: https://github.com/szwkang/cloudconfig #配置文件�?在仓�?
 #          search-paths: /config
 #          default-label: master
         git:
@@ -24,7 +24,7 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:10001/eureka
-management: # 暴露触发消息总线的地址
+management: # 暴露触发消息总线的地�?
   endpoints:
     web:
       exposure:

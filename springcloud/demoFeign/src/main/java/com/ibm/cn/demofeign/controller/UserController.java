@@ -6,12 +6,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
+@RequestMapping(value = "/user")
 public class UserController {
 
     @Autowired
     private UserFeignService userFeignService;
 
-    @GetMapping(value = "/user/getUser")
+    @GetMapping(value = "/getUser")
     public User getUser() {
         return userFeignService.getUser();
     }
