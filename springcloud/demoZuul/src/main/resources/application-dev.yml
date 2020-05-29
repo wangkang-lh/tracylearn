@@ -35,26 +35,26 @@ zuul:
     route1:
       #####拦截请求
       path: /tracy/**
-      ###  serviceId形式
+      ###  serviceId
       serviceId: feignDemo
     route2:
       #####拦截请求
       path: /tony/**
-      ### 转发给谁？ serviceId形式
+      ### URL
       url: http://www.baidu.com
 
-    #    # 指定了一个路由，Id为uaa-token，在做验权的时候需要用到
-#    user-token:
-#      # 指定这个路径会匹配到这个路由。
-#      path: /token/byPhone
-#      # 这里表示，这个路由的实例信息，是通过ribbon负载均衡器进行获取的。值就是对应服务名
-#      serviceId: user-demo
+      #    # 指定了一个路由，Id为uaa-token，在做验权的时候需要用到
+     getToken:
+      # 指定这个路径会匹配到这个路由。
+      path: /token/byPhone
+      # 这里表示，这个路由的实例信息，是通过ribbon负载均衡器进行获取的。值就是对应服务名
+      serviceId: feignDemo
 
-# 以下是自定义的配置，配置的值会被注入到NickConfigurationBean这个类
-#nick:
-#  zuul:
-#    token-filter:
-#      noAuthenticationRoutes: user-token
+# 以下是自定义的配置，配置的值会被注入到NoAuthConfigurationBean这个类
+noAuth:
+  zuul:
+    token-filter:
+      noAuthenticationRoutes: getToken
 
 
 ########hystrix相关配置

@@ -21,13 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9438d0-d88f-4edf-a79a-723aaee36006" name="Default Changelist" comment="modify config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1config/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/java/com/ibm/cn/demofeign/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoFeign/target/classes/com/ibm/cn/demofeign/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemoZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/DemoZuulApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/DemozuulApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/target/classes/com/ibm/cn/demozuul/DemozuulApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoZuul/demozuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/demozuul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoZuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoZuul/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demoZuul/src/main/resources/application-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demoZuul/src/main/java/com/ibm/cn/demozuul/jwt" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -76,14 +72,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ibm.cn.demozuul.model" />
+      <recent name="com.ibm.cn.demozuul.config" />
       <recent name="cn.ibm.com.democonfig.configuration" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\githubcode\code\tracylearn\springcloud\demoZuul\src\main\java\com\ibm\cn\demozuul\jwt" />
+      <recent name="C:\githubcode\code\tracylearn\springcloud\demoZuul\src\main\java\com\ibm\cn\demozuul\filter" />
       <recent name="C:\githubcode\code\tracylearn\springcloud\demoZuul\src\main\resources" />
       <recent name="C:\githubcode\code\tracylearn\springcloud\demoProvider2\src\main\java\com\ibm\cn\demoprovider" />
       <recent name="C:\githubcode\code\tracylearn\springcloud\demoProvider1" />
-      <recent name="C:\githubcode\code\tracylearn\springcloud\demo2eureka\src\main\resources" />
-      <recent name="C:\githubcode\code\tracylearn\springcloud" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -157,7 +155,7 @@
       <module name="demozuul" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ibm.cn.demozuul.*" />
+          <option name="PATTERN" value="com.ibm.cn.demozuul.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,10 +287,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="369" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1590487355649" />
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1590486015284">
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1590649679605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590486015284" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590649679605" />
     <state x="371" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590416018696">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -309,10 +307,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="632" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1590461261755" />
-    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1590473956099">
+    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1590655834159">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590473956099" />
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590655834159" />
     <state width="1237" height="352" key="GridCell.Tab.0.bottom" timestamp="1590576458663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -405,10 +403,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1590137907779" />
-    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1590464826298">
+    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1590651655826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590464826298" />
+    <state x="342" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590651655826" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -432,6 +430,11 @@
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
           <line>200</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
